@@ -1,0 +1,4 @@
+root - INFO - Это сообщение уровня INFO
+root - WARNING - Это сообщение уровня WARNING
+root - ERROR - Это сообщение уровня ERROR
+root - CRITICAL - Это сообщение уровня CRITICAL
